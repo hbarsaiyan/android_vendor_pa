@@ -1,19 +1,19 @@
 [
     {
         "remote":       "github",
-        "repository":   "gregor160300/android_device_motorola_titan",
+        "repository":   "PAforMoto/android_device_motorola_titan",
         "target_path":  "device/motorola/titan",
         "revision":     "nougat-mr2"
     },
     {
         "remote":       "github",
-        "repository":   "gregor160300/android_kernel_motorola_msm8226",
+        "repository":   "PAforMoto/android_kernel_motorola_msm8226",
         "target_path":  "kernel/motorola/msm8226",
         "revision":     "nougat-mr2"
     },
     {
         "remote":       "github",
-        "repository":   "gregor160300/android_device_motorola_msm8226-common",
+        "repository":   "PAforMoto/android_device_motorola_msm8226-common",
         "target_path":  "device/motorola/msm8226-common",
         "revision":     "nougat-mr2"
     },
