@@ -3,7 +3,7 @@
         "remote":       "github",
         "repository":   "PAforMoto/android_device_motorola_potter",
         "target_path":  "device/motorola/potter",
-        "revision":     "nougat-mr2"
+        "revision":     "pa-nougat-mr2"
     },
     {
         "remote":       "github",
