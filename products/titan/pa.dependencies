@@ -24,6 +24,12 @@
         "revision":     "cm-14.1"
     },
     {
+        "remote":       "github",
+        "repository":   "RenanQueiroz/android_vendor_pa",
+        "target_path":  "vendor/pa",
+        "revision":     "nougat-mr2"
+    },
+    {
         "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_qcom_audio",
         "target_path":  "hardware/qcom/audio",
