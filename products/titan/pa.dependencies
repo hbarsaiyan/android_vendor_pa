@@ -1,0 +1,81 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "RenanQueiroz/android_device_motorola_titan",
+        "target_path":  "device/motorola/titan",
+        "revision":     "pa"
+    },
+    {
+        "remote":       "github",
+        "repository":   "RenanQueiroz/android_kernel_motorola_msm8226",
+        "target_path":  "kernel/motorola/msm8226",
+        "revision":     "oreo-m2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "MotoDevelopment/android_device_motorola_msm8226-common",
+        "target_path":  "device/motorola/msm8226-common",
+        "revision":     "pa"
+    },
+    {
+        "remote":       "github",
+        "repository":   "RenanQueiroz/proprietary_vendor_motorola",
+        "target_path":  "vendor/motorola",
+        "revision":     "lineage-15.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_hardware_qcom_audio",
+        "target_path":  "hardware/qcom/audio",
+        "revision":     "lineage-15.1-caf-8974"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "lineage-15.1-caf-8974"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "lineage-15.1-caf-8974"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/system_qcom",
+        "target_path":  "system/qcom",
+        "revision":     "lineage-15.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_external_connectivity",
+        "target_path":  "external/connectivity",
+        "revision":     "lineage-15.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_external_tinycompress",
+        "target_path":  "external/tinycompress",
+        "revision":     "lineage-15.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_external_stlport",
+        "target_path":  "external/stlport",
+        "revision":     "lineage-15.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_packages_apps_FMRadio",
+        "target_path":  "packages/apps/FMRadio",
+        "revision":     "lineage-15.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_hardware_qcom_fm",
+        "target_path":  "hardware/qcom/fm",
+        "revision":     "lineage-15.1"
+    }
+
+]
