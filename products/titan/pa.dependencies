@@ -9,7 +9,7 @@
         "remote":       "github",
         "repository":   "RenanQueiroz/android_kernel_motorola_msm8226",
         "target_path":  "kernel/motorola/msm8226",
-        "revision":     "oreo-m2"
+        "revision":     "pa"
     },
     {
         "remote":       "github",
