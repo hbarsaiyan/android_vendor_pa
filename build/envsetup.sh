@@ -202,7 +202,7 @@ function mka() {
         fi
     fi
 
-    m -j "$@"
+    m -j$(nproc --all) "$@"
 }
 
 function repolastsync() {
