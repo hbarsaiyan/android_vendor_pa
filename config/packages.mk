@@ -39,9 +39,6 @@ PRODUCT_PACKAGES += \
 # Abstruct
 PRODUCT_PACKAGES += Abstruct
 
-# Retro Music Player
-PRODUCT_PACKAGES += RetroMusicPlayer
-
 # Device Personalization Services
 PRODUCT_PACKAGES += MatchmakerPrebuilt
 
