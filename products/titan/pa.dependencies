@@ -42,10 +42,10 @@
         "revision":     "quartz-8974"
     },
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_hardware_qcom_bt",
+        "remote":       "github",
+        "repository":   "RenanQueiroz/android_hardware_qcom_bt",
         "target_path":  "hardware/qcom/bt",
-        "revision":     "quartz-legacy"
+        "revision":     "quartz"
     },
     {
         "remote":       "github",
