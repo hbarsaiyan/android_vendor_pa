@@ -56,4 +56,4 @@ COMMON_LUNCH_CHOICES += \
     pa_sagit-userdebug \
     pa_suzu-userdebug \
     pa_titan-userdebug \
-    pa_falcon-userebug
+    pa_falcon-userdebug
