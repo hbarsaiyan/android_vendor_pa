@@ -17,7 +17,6 @@ ifneq ($(TARGET_USES_AOSP_CAMERA),true)
 PRODUCT_PACKAGES += ParanoidCamera
 endif
 PRODUCT_PACKAGES += \
-    ChromePublic \
     SoundRecorder \
     WallpaperPicker \
     LatinIME \
